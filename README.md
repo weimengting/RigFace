@@ -15,7 +15,7 @@ University of Oulu
 
 ## :mega: Updates
 
-[6/2/2024] Inference code and pre-trained models are released.
+[6/2/2025] Inference code and pre-trained models are released.
 
 
 ## Introduction
