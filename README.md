@@ -23,7 +23,10 @@ University of Oulu
 We present RigFace, an efficient approach to edit the expression, pose and lighting with consistent 
 identity and other attributes from a given image.
 
-![](assets/demo.png)
+<p align="center"> 
+<img src="./assets/demo.png">
+</p>
+
 
 ## Installation
 
